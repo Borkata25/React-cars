@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-1.Before running app you need to install:
+1.Before running app you need to install: 
 `npm install @reduxjs/toolkit`,
-`npm installreact-redux`,
+`npm install react-redux`,
 `npm install bulma`
 
 ### `npm start`
